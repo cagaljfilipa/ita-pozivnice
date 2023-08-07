@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="46.80201mm"
+   width="46.802032mm"
    height="95.221581mm"
-   viewBox="0 0 46.80201 95.221581"
+   viewBox="0 0 46.802032 95.221581"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="kuverta.svg"
-   inkscape:export-filename="Desktop\vrh.svg"
+   inkscape:export-filename="Desktop\dno.svg"
    inkscape:export-xdpi="99.323906"
    inkscape:export-ydpi="99.323906"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.1089995"
-     inkscape:cx="263.63212"
-     inkscape:cy="287.8142"
+     inkscape:zoom="67.487984"
+     inkscape:cx="470.26149"
+     inkscape:cy="145.13695"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -61,7 +61,7 @@
      id="layer1"
      transform="translate(-79.530596,-23.671008)">
     <path
-       style="opacity:1;mix-blend-mode:normal;fill:#ede0e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265;stroke-dasharray:none;paint-order:normal"
+       style="opacity:1;mix-blend-mode:normal;fill:#e1e5d5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265;stroke-dasharray:none;paint-order:normal"
        d="m 79.538107,37.761778 v -7.025445 c 0,0 -0.119621,-5.505325 0.595909,-6.429536 0.476976,-0.616086 22.738614,-0.595909 22.738614,-0.595909 0,0 22.32993,-0.266131 22.89097,0.576613 0.49752,0.747325 0.44355,6.386107 0.44355,6.386107 v 6.96272 l -22.81183,22.88946 -1.48708,0.0123 z"
        id="path384"
        sodipodi:nodetypes="ccscsccccc"

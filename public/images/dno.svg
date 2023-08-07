@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="46.80201mm"
+   width="46.802032mm"
    height="95.221581mm"
-   viewBox="0 0 46.80201 95.221581"
+   viewBox="0 0 46.802032 95.221581"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="kuverta.svg"
-   inkscape:export-filename="Desktop\dno.svg"
+   inkscape:export-filename="Desktop\vrh.svg"
    inkscape:export-xdpi="99.323906"
    inkscape:export-ydpi="99.323906"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.1089995"
-     inkscape:cx="263.63212"
-     inkscape:cy="287.8142"
+     inkscape:zoom="67.487984"
+     inkscape:cx="470.26149"
+     inkscape:cy="145.13695"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -101,12 +101,12 @@
       <g
          id="g7925">
         <path
-           style="fill:#efdee2;fill-opacity:1;stroke-width:0.264583"
-           d="m 79.600834,38.451782 22.299526,22.472023 1.59954,4e-6 22.83271,-22.722934 v 80.670095 l -46.73697,0.008 z"
+           style="fill:#aebaa4;fill-opacity:1;stroke-width:0.264583"
+           d="m 79.600834,38.451782 22.235496,22.315402 1.65761,0.01142 22.6701,-22.605171 0.16858,80.697537 -46.73697,0.008 z"
            id="path435"
            sodipodi:nodetypes="ccccccc" />
         <path
-           style="fill:#efdee2;fill-opacity:1;stroke-width:0.264583;filter:url(#filter5190)"
+           style="fill:#aebaa4;fill-opacity:1;stroke-width:0.264583;filter:url(#filter5190)"
            d="m 79.541008,83.629969 v 7.025441 c 0,0 -0.229394,27.0627 0.486136,27.98691 0.476976,0.61609 22.095656,0.36579 22.095656,0.36579 0,0 23.17705,0.5639 23.73809,-0.27884 0.49752,-0.74733 0.34916,-28.01113 0.34916,-28.01113 v -6.962721 l -22.79615,-22.419006 -1.50276,-0.0031 z"
            id="path384-0"
            sodipodi:nodetypes="ccscsccccc"

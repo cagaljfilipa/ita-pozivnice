@@ -5,8 +5,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Pozivnica za naše vjenčanje | Filipa & Nikola",
-  description: "Vjenčanje se održava 25. kolovoza 2023. godine.",
+  title: "Pozivnica za naše vjenčanje | Margarita & Mario",
+  description: "Vjenčanje se održava 30. rujna 2023. godine.",
 };
 
 export default function RootLayout({

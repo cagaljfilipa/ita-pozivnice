@@ -17,7 +17,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        sans: ["var(--open-sans)"],
+        dafoe: ["var(--dafoe)"],
         vibes: ["var(--great-vibes)"],
       },
       colors: {

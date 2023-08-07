@@ -21,24 +21,9 @@ const openSansFont = Open_Sans({
 
 const timeTable = [
   {
-    time: "17:00",
-    event: "TRATAMENAT ZRNO SOLI",
-    location: "UVALA BALUNI 8, 21000 SPLIT",
-  },
-  {
-    time: "19:00",
-    event: "OBRED VJENČANJA",
-    location: "CRKVA SV.STJEPANA, SUSTIPAN",
-  },
-  {
-    time: "20:30",
-    event: "PIĆE DOBRODOŠLICE",
-    location: "RESTORAN POLJUD, POLJUDSKO ŠETALIŠTE 1",
-  },
-  {
-    time: "21:00",
-    event: "SVEČANA VEČERA",
-    location: "RESTORAN POLJUD",
+    time: "od 17:00",
+    event: "VILLA GALA",
+    location: "Gala 67A, 21241, Obrovac Sinjski",
   },
 ];
 
@@ -156,7 +141,7 @@ export default function Home() {
         style={{
           minWidth: "370px",
           maxWidth: "600px",
-          background: "#FDFCF8",
+          background: "white",
           position: "relative",
           margin: "auto",
         }}
@@ -206,13 +191,13 @@ export default function Home() {
           style={{
             minWidth: "400px",
             maxWidth: "600px",
-            background: "#FDFCF8",
+            background: "white",
             zIndex: 10,
           }}
         >
           <div>
             <Image
-              src="/images/flower_top2.png"
+              src="/images/maslina_top2.png"
               alt="hero"
               width={600}
               height={600}
@@ -220,39 +205,33 @@ export default function Home() {
           </div>
           <div
             className="text-6xl w-100 flex flex-col justify-center items-center m-24 mb-10 gap-6"
-            style={{ marginTop: "-40px" }}
+            style={{ marginTop: "-5px" }}
           >
-            <h1 className="font-vibes">Filipa</h1>
+            <h1 className="font-vibes">Margarita</h1>
             <p
               style={{
                 fontSize: "20px",
                 marginLeft: "40px",
-                marginTop: "-10px",
+                marginTop: "10px",
               }}
             >
               i
             </p>
             <h1 className="font-vibes" style={{ marginTop: "-40px" }}>
-              Nikola
+              Mario
             </h1>
           </div>
           <div className=" w-100 flex flex-col justify-center items-center gap-6">
-            <h1
-              className="font-sans"
-              style={{ fontWeight: "bold", letterSpacing: "3px" }}
-            >
-              DRAGI NAŠI,
-            </h1>
             <p
               className="font-sans"
               style={{
                 color: "#333",
                 fontWeight: "400",
                 letterSpacing: "0.05em",
-                fontSize: "14px",
+                fontSize: "15px",
               }}
             >
-              pozivamo vas da budete dio našeg velikog dana!
+              pozivaju Vas na vjenčanje
             </p>
           </div>
           <div className="w-100 flex flex-col justify-center items-center  m-10">
@@ -264,14 +243,14 @@ export default function Home() {
                 fontSize: "1.21em",
               }}
             >
-              PETAK, 25.08.2023.
+              SUBOTA, 30.09.2023.
             </h1>
           </div>
 
           <GuestTable timeTable={timeTable} />
           <div>
             <Image
-              src="/images/flower_bottom.png"
+              src="/images/maslina_bottom.png"
               alt="hero"
               width={600}
               height={600}

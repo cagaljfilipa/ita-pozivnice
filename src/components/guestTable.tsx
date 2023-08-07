@@ -86,7 +86,7 @@ function GuestTable({
 
       <div>
         <Image
-          src="/images/flower_one.png"
+          src="/images/maslina_one.png"
           alt="hero"
           width={600}
           height={600}
@@ -121,9 +121,7 @@ function GuestTable({
             }}
           >
             svoj dolazak, molimo, potvrdite <br />
-            <span style={{ paddingLeft: "1.25em" }}>
-              ovdje do 15. kolovoza 2023.
-            </span>
+            <span style={{ paddingLeft: "1.25em" }}>ovdje do 10.09.2023.</span>
           </p>
         )}
       </div>
@@ -169,7 +167,7 @@ function GuestTable({
           </div>
           <button
             className="px-8 py-2 border border-gray-300 rounded-md m-auto focus:outline-none focus:border-#dab6ba backg"
-            style={{ backgroundColor: "#f0dde0", borderColor: "#bb979b" }}
+            style={{ backgroundColor: "#d9ddd5", borderColor: "#9b9d99" }}
             onClick={sendResponseToFirebase}
           >
             Potvrdi odgovor
@@ -188,19 +186,16 @@ function GuestTable({
         </h2>
         <div className="flex items-center mt-4">
           <div className="flex flex-col items-center mr-4">
-            <p style={{ fontWeight: "500", fontSize: "15px" }}>FILIPA ČAGALJ</p>
-            <p style={{ fontSize: "13px" }}>095 822 1955</p>
+            <p style={{ fontWeight: "500", fontSize: "15px" }}>MARGARITA</p>
+            <p style={{ fontSize: "13px" }}>097 756 8654</p>
           </div>
           <hr className="border border-black-300 h-px flex-grow" />
           <div className="flex flex-col items-center ml-4">
-            <p style={{ fontWeight: "500", fontSize: "15px" }}>NIKOLA MATIĆ</p>
-            <p style={{ fontSize: "13px" }}> 098 6422 35</p>
+            <p style={{ fontWeight: "500", fontSize: "15px" }}>MARIO</p>
+            <p style={{ fontSize: "13px" }}> 099 222 1900</p>
           </div>
         </div>
       </div>
-      <h1 className="font-vibes m-auto" style={{ fontSize: "40px" }}>
-        Veselimo se vašem dolasku!
-      </h1>
     </div>
   );
 }
